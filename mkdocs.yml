@@ -1,9 +1,11 @@
-site_name: My site
+site_name: Enrichment analysis
 nav:
     - Home: index.md
     - Precourse preparations: precourse.md
     - Course schedule: course_schedule.md
+    - Materials: materials.md
     - Exercises: exercises.md
+    - Useful links: links.md
 
 theme:
   name: material
@@ -11,8 +13,8 @@ theme:
   favicon: assets/images/SIB_logo.svg
 
 # Repository
-repo_name: sib-swiss/course_website_template
-repo_url: https://github.com/sib-swiss/course_website_template
+repo_name: taniawyss/enrichment-analysis
+repo_url: https://github.com/taniawyss/enrichment-analysis
 
 markdown_extensions:
   - abbr
